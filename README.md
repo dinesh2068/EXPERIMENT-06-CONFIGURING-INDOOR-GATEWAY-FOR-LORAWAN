@@ -84,9 +84,15 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+![image](https://github.com/user-attachments/assets/9b475ad1-3a57-4e2b-a878-b44708a07117)
 
+![image](https://github.com/user-attachments/assets/5efc9bfd-cc8c-473b-b785-aa2a0ad4a6d6)
+
+![image](https://github.com/user-attachments/assets/ec96bbd0-22fd-43ed-b105-998a11911de6)
+
+![image](https://github.com/user-attachments/assets/5be78c87-4105-40e8-a824-5f54efefc2b1)
 
 
 ## Results: 
 
-
+Hence, LoRaWAN gateway for things network has been configured successfully.
